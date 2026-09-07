@@ -1,7 +1,7 @@
 export const WORKER_PROFILES = [
   {
     id: 'ramesh_delivery_blr',
-    name: 'Ramesh Kumar (ರಮೇಶ್ ಕುಮಾರ್)',
+    name: 'Ramesh Kumar',
     age: 24,
     role: 'delivery_rider',
     location: 'blr_ecity',
@@ -16,7 +16,7 @@ export const WORKER_PROFILES = [
   },
   {
     id: 'suresh_factory_peenya',
-    name: 'Suresh Gowda (ಸುರೇಶ್ ಗೌಡ)',
+    name: 'Suresh Gowda',
     age: 28,
     role: 'factory_helper',
     location: 'blr_peenya',
@@ -31,7 +31,7 @@ export const WORKER_PROFILES = [
   },
   {
     id: 'sunita_domestic_mysuru',
-    name: 'Sunita Devi (ಸುನೀತಾ ದೇವಿ)',
+    name: 'Sunita Devi',
     age: 33,
     role: 'domestic_helper',
     location: 'mysuru',
@@ -46,7 +46,7 @@ export const WORKER_PROFILES = [
   },
   {
     id: 'imran_cab_hyderabad',
-    name: 'Imran Khan (ఇమ్రాన్ ఖాన్)',
+    name: 'Imran Khan',
     age: 30,
     role: 'cab_driver',
     location: 'hyderabad',

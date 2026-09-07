@@ -1,9 +1,9 @@
 export const TRAINING_CENTERS = [
   {
     id: 'nsti_yeshwanthpur',
-    name: 'National Skill Training Institute (NSTI Bengaluru)',
+    name: 'National Skill Training Institute (NSTI Yeshwanthpur)',
     govtAffiliation: 'Ministry of Skill Development & Entrepreneurship (MSDE, Govt of India)',
-    locationKey: 'blr_ecity', // accessible via metro / ORR
+    locationKey: 'blr_ecity',
     city: 'Bengaluru',
     address: 'Outer Ring Road, Near Yeshwanthpur Metro Station, Bengaluru, Karnataka - 560022',
     landmark: '500m from Yeshwanthpur Metro Station (Green Line)',
@@ -19,7 +19,7 @@ export const TRAINING_CENTERS = [
   },
   {
     id: 'iti_peenya',
-    name: 'Government ITI Peenya (ಕಲಿಕಾ ಕೇಂದ್ರ ಪೀಣ್ಯ)',
+    name: 'Government ITI Peenya',
     govtAffiliation: 'Department of Industrial Training & Employment, Govt of Karnataka',
     locationKey: 'blr_peenya',
     city: 'Bengaluru',
@@ -55,7 +55,7 @@ export const TRAINING_CENTERS = [
   },
   {
     id: 'iti_hosur_road',
-    name: 'Government ITI Hosur Road (Dairy Circle)',
+    name: 'Government ITI Hosur Road',
     govtAffiliation: 'Dept of Training & Employment, Govt of Karnataka',
     locationKey: 'blr_ecity',
     city: 'Bengaluru',
@@ -73,7 +73,7 @@ export const TRAINING_CENTERS = [
   },
   {
     id: 'ksdc_mysuru',
-    name: 'District Skill Development Center Mysuru (ಮೈಸೂರು ಕೌಶಲ್ಯ ಕೇಂದ್ರ)',
+    name: 'District Skill Development Center Mysuru',
     govtAffiliation: 'Karnataka Skill Development Corporation (KSDC)',
     locationKey: 'mysuru',
     city: 'Mysuru',
@@ -91,7 +91,7 @@ export const TRAINING_CENTERS = [
   },
   {
     id: 'nsti_hyderabad',
-    name: 'National Skill Training Institute (NSTI Vidyanagar, Hyderabad)',
+    name: 'National Skill Training Institute (NSTI Vidyanagar)',
     govtAffiliation: 'MSDE, Govt of India',
     locationKey: 'hyderabad',
     city: 'Hyderabad',

@@ -19,7 +19,7 @@ export default function KaushalyaPatraModal({ workerProfile, recommendations, on
           <div className="flex items-center space-x-2">
             <span className="text-xl">🟡🔴</span>
             <h3 className="text-lg font-extrabold text-slate-100">
-              Personalized "Kaushalya Patra" (Skill Pass)
+              Personalized Kaushalya Patra
             </h3>
           </div>
           <button
@@ -44,7 +44,7 @@ export default function KaushalyaPatraModal({ workerProfile, recommendations, on
                   Govt of Karnataka & Skill India Digital Aligned
                 </span>
                 <h2 className="text-xl font-black text-slate-100 tracking-tight">
-                  KAUSHALYA PATRA (ಕೌಶಲ್ಯ ಪತ್ರ)
+                  KAUSHALYA PATRA
                 </h2>
                 <p className="text-xs text-slate-300">
                   Official Skilling & Social Security Action Pass

@@ -2,7 +2,7 @@ export const SKILLING_ROADMAPS = {
   delivery_rider: [
     {
       id: 'ev_technician',
-      targetRole: 'Certified EV Two-Wheeler / Auto Technician (ಎಲೆಕ್ಟ್ರಿಕ್ ವಾಹನ ತಂತ್ರಜ್ಞ)',
+      targetRole: 'Certified EV Two-Wheeler & Auto Technician',
       nsqfLevel: 'Level 4 (National Skills Qualifications Framework)',
       sector: 'Automotive & Green Energy',
       effort: 'Moderate (6 Weeks / Weekend Batches Available)',
@@ -24,7 +24,7 @@ export const SKILLING_ROADMAPS = {
     },
     {
       id: 'industrial_electrician',
-      targetRole: 'Certified Industrial & Residential Electrician (ಕೈಗಾರಿಕಾ ಎಲೆಕ್ಟ್ರಿಷಿಯನ್)',
+      targetRole: 'Certified Industrial & Residential Electrician',
       nsqfLevel: 'Level 4 (NSDC / NCVT Certified)',
       sector: 'Power & Construction',
       effort: 'Moderate (8 Weeks / Flexi Time)',
@@ -49,7 +49,7 @@ export const SKILLING_ROADMAPS = {
   factory_helper: [
     {
       id: 'cnc_operator',
-      targetRole: 'CNC Turning & Milling Machine Operator (CNC ಮೆಷಿನ್ ಆಪರೇಟರ್)',
+      targetRole: 'CNC Turning & Milling Machine Operator',
       nsqfLevel: 'Level 4 (GTTC / NCVT Aligned)',
       sector: 'Capital Goods & Precision Manufacturing',
       effort: 'Moderate (8 Weeks / Shift Friendly)',
@@ -74,7 +74,7 @@ export const SKILLING_ROADMAPS = {
   domestic_helper: [
     {
       id: 'gda_healthcare_aide',
-      targetRole: 'Certified General Duty Assistant / Healthcare Aide (ಆಸ್ಪತ್ರೆ ಸಹಾಯಕರು)',
+      targetRole: 'Certified General Duty Assistant & Healthcare Aide',
       nsqfLevel: 'Level 4 (Healthcare Sector Skill Council)',
       sector: 'Healthcare & Hospital Services',
       effort: 'Easy to Moderate (6 Weeks)',
@@ -99,7 +99,7 @@ export const SKILLING_ROADMAPS = {
   cab_driver: [
     {
       id: 'solar_pv_installer',
-      targetRole: 'Solar PV Systems Installer & Maintenance Supervisor (ಸೌರಶಕ್ತಿ ಸಿಸ್ಟಮ್ಸ್ ತಂತ್ರಜ್ಞ)',
+      targetRole: 'Solar PV Systems Installer & Maintenance Supervisor',
       nsqfLevel: 'Level 4 (Skill Council for Green Jobs)',
       sector: 'Renewable Energy & Solar',
       effort: 'Moderate (6 Weeks / Weekend)',
