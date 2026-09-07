@@ -1,0 +1,62 @@
+export const WORKER_PROFILES = [
+  {
+    id: 'ramesh_delivery_blr',
+    name: 'Ramesh Kumar (ರಮೇಶ್ ಕುಮಾರ್)',
+    age: 24,
+    role: 'delivery_rider',
+    location: 'blr_ecity',
+    education: 'pass_10th',
+    socialSecurity: ['e_shram', 'esic'],
+    esicIpNumber: '31948201948',
+    eShramId: 'UAN-9482-1049-2819',
+    avatar: '🛵',
+    currentIncome: 18500,
+    headline: 'Zomato Delivery Rider in Electronic City, Bengaluru',
+    description: 'Rider paying ESIC deductions under gig worker coverage. Seeks EV Repair & Technician certification to double monthly income.'
+  },
+  {
+    id: 'suresh_factory_peenya',
+    name: 'Suresh Gowda (ಸುರೇಶ್ ಗೌಡ)',
+    age: 28,
+    role: 'factory_helper',
+    location: 'blr_peenya',
+    education: 'pass_12th',
+    socialSecurity: ['e_shram', 'bocw'],
+    esicIpNumber: '31820491024',
+    eShramId: 'UAN-8201-9302-1102',
+    avatar: '🏭',
+    currentIncome: 16000,
+    headline: 'Manual Packing Helper in Peenya Industrial Area',
+    description: '12th Pass worker seeking CNC Operator / Precision Machinist certification at GTTC / Govt ITI Peenya.'
+  },
+  {
+    id: 'sunita_domestic_mysuru',
+    name: 'Sunita Devi (ಸುನೀತಾ ದೇವಿ)',
+    age: 33,
+    role: 'domestic_helper',
+    location: 'mysuru',
+    education: 'pass_8th',
+    socialSecurity: ['e_shram', 'pmsym'],
+    esicIpNumber: 'Not Registered',
+    eShramId: 'UAN-7721-0492-8819',
+    avatar: '🧹',
+    currentIncome: 11000,
+    headline: 'Domestic Worker in Hebbal, Mysuru',
+    description: 'e-Shram cardholder seeking Certified Home Healthcare Assistant (GDA) training under Mukhyamantri Koushalya Yojana.'
+  },
+  {
+    id: 'imran_cab_hyderabad',
+    name: 'Imran Khan (ఇమ్రాన్ ఖాన్)',
+    age: 30,
+    role: 'cab_driver',
+    location: 'hyderabad',
+    education: 'pass_10th',
+    socialSecurity: ['e_shram', 'esic'],
+    esicIpNumber: '44810294812',
+    eShramId: 'UAN-4491-0029-4411',
+    avatar: '🚖',
+    currentIncome: 21000,
+    headline: 'Ola/Uber Cab Driver in Secunderabad',
+    description: 'Gig cab driver seeking Solar PV Installer & Electrician Certification at NSTI Hyderabad.'
+  }
+];
