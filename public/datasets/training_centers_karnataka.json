@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nsti_yeshwanthpur",
+    "name": "National Skill Training Institute (NSTI Yeshwanthpur)",
+    "govtAffiliation": "Ministry of Skill Development & Entrepreneurship (MSDE, Govt of India)",
+    "city": "Bengaluru",
+    "address": "Outer Ring Road, Near Yeshwanthpur Metro Station, Bengaluru, Karnataka - 560022",
+    "landmark": "500m from Yeshwanthpur Metro Station (Green Line)",
+    "contactPerson": "Shri R. K. Sharma (Training Officer)",
+    "phone": "+91 80 2337 1209",
+    "email": "nsti-bengaluru@gov.in",
+    "timings": "Weekend Batch: Saturday & Sunday (8:30 AM - 4:30 PM)",
+    "verificationBadge": "#NSTI-BLR-01",
+    "latitude": 13.028,
+    "longitude": 77.54
+  },
+  {
+    "id": "iti_peenya",
+    "name": "Government ITI Peenya",
+    "govtAffiliation": "Department of Industrial Training & Employment, Govt of Karnataka",
+    "city": "Bengaluru",
+    "address": "3rd Stage, Peenya Industrial Area, Near TVS Cross, Bengaluru, Karnataka - 560058",
+    "landmark": "Opposite SRS Travels Depot, Peenya 3rd Stage",
+    "contactPerson": "Mr. Siddappa H. (Principal / Officer-In-Charge)",
+    "phone": "+91 80 2839 4420",
+    "email": "iti.peenya@karnataka.gov.in",
+    "timings": "Shift 1: 7:30 AM - 1:30 PM | Shift 2: 2 PM - 8 PM",
+    "verificationBadge": "#KSDC-PEENYA-104",
+    "latitude": 13.031,
+    "longitude": 77.518
+  },
+  {
+    "id": "gttc_rajajinagar",
+    "name": "Government Tool Room & Training Centre (GTTC Rajajinagar)",
+    "govtAffiliation": "Department of Commerce & Industries, Govt of Karnataka",
+    "city": "Bengaluru",
+    "address": "Industrial Estate, West of Chord Road, Rajajinagar, Bengaluru, Karnataka - 560044",
+    "landmark": "Near Rajajinagar ITI Metro Station",
+    "contactPerson": "Dr. Suresh V. (Head of Short Term Training)",
+    "phone": "+91 80 2338 5103",
+    "email": "gttc.rajajinagar@karnataka.gov.in",
+    "timings": "Flexible Shifts: Morning (8 AM - 11 AM) & Evening (5 PM - 8 PM)",
+    "verificationBadge": "#GTTC-RJN-01",
+    "latitude": 13.001,
+    "longitude": 77.552
+  }
+]
